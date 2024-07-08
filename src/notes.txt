@@ -1,0 +1,13 @@
+'key=str.casefold'   option ignores case while processing the string
+
+random.randint(2, 4)   produces a random value between 2 and 4
+
+time.perf_counter()  returns float value of current time
+
+print(f'({target - elapsed :.3f})')   prints value of 'target' minus value of 'elapsed' up to 3 decimal places
+
+'pickle' function converts an object into a byte stream that can be saved to file
+      import pickle
+      pickle.dump >> converts object to pickle byte stream
+      pickle.load >> de-pickles byte stream
+
